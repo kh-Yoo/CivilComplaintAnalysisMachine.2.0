@@ -1,0 +1,35 @@
+{{>layout/header}}
+
+<div id="wrapper">
+    <!-- Nav -->
+    <nav id="nav">
+        <a href="#analyze" class="icon solid fa-folder"><span>Analyze</span></a>
+
+    </nav>
+
+    <!-- Main -->
+    <div id="main">
+
+        <!-- Analyze -->
+        <article id="analyze" class="panel">
+            <section id="first" class="main special">
+                <header class="major">
+                    <h2>분석 결과 다운</h2>
+                </header>
+                <div>
+                    <form action="/excel/download" method="get">
+                        <button type="submit">Download</button>
+                    </form>
+                    <form action="/" method="get">
+                        <button type="submit">Home</button>
+                    </form>
+                </div>
+                <p>다운로드 버튼을 누르시면 민원에 대한 예측한 카테고리가 나옵니다.</p>
+            </section>
+        </article>
+
+    </div>
+
+</div>
+
+{{>layout/footer}}
