@@ -43,7 +43,7 @@ https://youtu.be/03XD9mLious
 <img width="1422" alt="스크린샷 2022-06-05 오전 9 46 25" src="https://user-images.githubusercontent.com/62977669/172030356-efbdeed7-b97e-44a2-84ed-26af383cfdfd.png">
 <img width="1041" alt="스크린샷 2022-06-05 오전 9 46 33" src="https://user-images.githubusercontent.com/62977669/172030357-3ac6e403-7220-43c5-b49f-b6e540dfe508.png">
 
-## 5. 개선된 이유
+## 5. 개선된 기능들의 이유
 
 회원가입과 로그인 기능 대신에 네이버 및 구글 로그인 기능을 선택한 이유는 사용자들이 번거롭지 않기 위해 많은 사용자가 사용하는 웹사이트들의 로그인 기능으로 대체해 편의성을 제공하기 위해서입니다.
 
