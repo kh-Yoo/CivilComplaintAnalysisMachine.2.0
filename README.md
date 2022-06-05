@@ -25,4 +25,24 @@ https://youtu.be/03XD9mLious
 
 ## 4. 개선된 점
 
+**네이버 및 구글 로그인 기능 추가**
+<img width="950" alt="스크린샷 2022-06-05 오전 9 43 25" src="https://user-images.githubusercontent.com/62977669/172030300-f534f258-792f-468e-b093-9cf002e3ee12.png">
 
+**게시글 조회 기능**
+<img width="947" alt="스크린샷 2022-06-05 오전 9 44 29" src="https://user-images.githubusercontent.com/62977669/172030319-1b24fe80-6249-4f24-865f-6e9167159569.png">
+
+**게시글 등록 기능**
+<img width="1425" alt="스크린샷 2022-06-05 오전 9 45 06" src="https://user-images.githubusercontent.com/62977669/172030334-4efdbe6d-8325-42ff-8a00-5a9f4b875e2e.png">
+<img width="942" alt="스크린샷 2022-06-05 오전 9 45 27" src="https://user-images.githubusercontent.com/62977669/172030335-9b19798e-3be9-4b7e-82fa-1fb5222c46dd.png">
+
+**게시글 수정 기능**
+<img width="1418" alt="스크린샷 2022-06-05 오전 9 46 08" src="https://user-images.githubusercontent.com/62977669/172030345-1f4b49a6-1b34-425e-b93f-5f95f369f70a.png">
+<img width="952" alt="스크린샷 2022-06-05 오전 9 46 16" src="https://user-images.githubusercontent.com/62977669/172030346-58a50af0-bceb-400d-9126-db74bc234879.png">
+
+**게시글 삭제 기능**
+<img width="1422" alt="스크린샷 2022-06-05 오전 9 46 25" src="https://user-images.githubusercontent.com/62977669/172030356-efbdeed7-b97e-44a2-84ed-26af383cfdfd.png">
+<img width="1041" alt="스크린샷 2022-06-05 오전 9 46 33" src="https://user-images.githubusercontent.com/62977669/172030357-3ac6e403-7220-43c5-b49f-b6e540dfe508.png">
+
+## 5. 개선된 이유
+
+게시판을 만든 이유는 사용자들이 민원 분석을 하다가 에러 및 민원이 발생하면 사용자들의 편의 사항을 위해서 민원 분석 도구를 재빠르게 개선하기 위해서입니다.
